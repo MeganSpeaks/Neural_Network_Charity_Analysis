@@ -8,7 +8,7 @@ The purpose of this analysis is to help the foundation predict where to make inv
 3. What variable(s) are neither targets nor features, and should be removed from the input data? The EIN and name columns used for identification.
 
 -- Compiling, Training, and Evaluating the Model
-1. How many neurons, layers, and activation functions did you select for your neural network model, and why?
-2. Were you able to achieve the target model performance?
+1. How many neurons, layers, and activation functions did you select for your neural network model, and why?  
+2. Were you able to achieve the target model performance?  No, I bot up to 70%.
 3. What steps did you take to try and increase model performance?
 ## Summary
